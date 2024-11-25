@@ -2,6 +2,7 @@ We’re technology is something else.
   
 Hi, my name is Ygor!  
 <br>
+![VS Code](img/Visual%20Studio%20Code%20(VS%20Code)%201.svg)
 ![JavaScript](img/JavaScript%201.svg)
 ![HTML5](img/HTML5%201.svg)
 ![CSS3](img/CSS3%201.svg)
